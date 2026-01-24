@@ -5,12 +5,43 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Translations – Khmer Palm-leaf Demo</title>
   <style>
-    body{font-family:system-ui,Segoe UI,Roboto,Arial; margin:16px; max-width:1100px}
-    select{padding:6px 8px; font-size:14px}
-    .grid{display:grid; grid-template-columns:1fr; gap:12px; margin-top:12px}
-    .card{border:1px solid #ddd; padding:12px; border-radius:8px}
-    .k{font-weight:600; margin-bottom:6px}
-    pre{white-space:pre-wrap; margin:0}
+    /* Font cho tiêu đề chính */
+    h2 {
+      font-family: 'Impact', sans-serif; /* Tiêu đề: Impact */
+    }
+
+    /* Font cho phần nội dung bản dịch */
+    body {
+      font-family: 'Arial', sans-serif;  /* Font mặc định */
+    }
+
+    /* Font cho các phần bản dịch */
+    .card .k {
+      font-family: 'Arial', sans-serif; /* Font cho tiêu đề bản dịch */
+      font-weight: bold;
+    }
+
+    /* Font riêng cho từng ngôn ngữ */
+    #km {
+      font-family: 'Khmer OS Battambang', sans-serif;  /* Font cho tiếng Khmer */
+    }
+
+    #vi {
+      font-family: 'Times New Roman', serif;  /* Font cho tiếng Việt */
+    }
+
+    #en {
+      font-family: 'Times', serif;  /* Font cho tiếng Anh */
+    }
+
+    #zh {
+      font-family: 'SimSum', sans-serif;  /* Font cho tiếng Trung */
+    }
+
+    /* Thay đổi font cho phần nội dung bản dịch */
+    pre {
+      font-family: 'Courier New', monospace;  /* Font cho nội dung bản dịch */
+    }
   </style>
 </head>
 <body>
