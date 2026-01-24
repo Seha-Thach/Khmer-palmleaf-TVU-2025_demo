@@ -31,17 +31,3 @@ This project is part of research and academic work in preserving and developing 
    ```bash
    git clone https://github.com/Seha-Thach/Khmer-palmleaf-TVU-2025_demo.git
 
-### **Explanation**:
-- **Introduction**: Describes the purpose of the project and what it aims to achieve.
-- **Key Features**: Highlights the features of the project, such as text search, translation display, and text highlighting.
-- **Author**: Your personal details, including your position and contact information.
-- **Technologies Used**: Lists the technologies involved in the project (IIIF, UV, PAGE-XML, etc.).
-- **How to Use**: Provides instructions for cloning and using the repository.
-- **Acknowledgments**: Mentions sources or collaborators that helped with the project.
-- **License**: A standard MIT license (you can change it if you have a specific license in mind).
-
-### **Steps**:
-1. **Copy and paste** the content above into your **README.md** file.
-2. **Commit** the file to your GitHub repository.
-
-This will give your project a well-structured and professional **README.md** file, explaining its purpose, features, and how to use it.
