@@ -19,17 +19,9 @@
     }
   ],
 
-  "seeAlso": [
-    {
-      "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/text/translations.json",
-      "format": "application/json",
-      "label": "Translations (km-modern, vi, en, zh)"
-    }
-  ],
-
   "metadata": [
     { "label": "Creator", "value": "Seha Thach" },
-    { "label": "Translations (viewer)", "value": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/text/translations.html" },
+    { "label": "Translations (viewer)", "value": "<a href='https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/text/translations.html' target='_blank' rel='noopener'>Open translations in a new tab</a>" },
     { "label": "Date", "value": "2025-11-05" },
     { "label": "Language", "value": "km-Khmer; pi-Khmr" },
     { "label": "Script", "value": "Khmer" },
@@ -70,119 +62,8 @@
               "@type": "sc:AnnotationList"
             }
           ]
-        },
-        {
-          "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0002",
-          "@type": "sc:Canvas",
-          "label": "Page 2",
-          "width": 5560,
-          "height": 490,
-          "images": [
-            {
-              "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/annotation/KPL_0002-image",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/KPL_0002.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 5560,
-                "height": 490
-              },
-              "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0002"
-            }
-          ],
-          "otherContent": [
-            {
-              "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/annos/KPL_0002.json",
-              "@type": "sc:AnnotationList"
-            }
-          ]
-        },
-        {
-          "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0003",
-          "@type": "sc:Canvas",
-          "label": "Page 3",
-          "width": 5560,
-          "height": 490,
-          "images": [
-            {
-              "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/annotation/KPL_0003-image",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/KPL_0003.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 5560,
-                "height": 490
-              },
-              "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0003"
-            }
-          ],
-          "otherContent": [
-            {
-              "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/annos/KPL_0003.json",
-              "@type": "sc:AnnotationList"
-            }
-          ]
-        },
-        {
-          "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0004",
-          "@type": "sc:Canvas",
-          "label": "Page 4",
-          "width": 5560,
-          "height": 490,
-          "images": [
-            {
-              "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/annotation/KPL_0004-image",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/KPL_0004.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 5560,
-                "height": 490
-              },
-              "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0004"
-            }
-          ],
-          "otherContent": [
-            {
-              "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/annos/KPL_0004.json",
-              "@type": "sc:AnnotationList"
-            }
-          ]
-        },
-        {
-          "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0005",
-          "@type": "sc:Canvas",
-          "label": "Page 5",
-          "width": 5560,
-          "height": 490,
-          "images": [
-            {
-              "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/annotation/KPL_0005-image",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/KPL_0005.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 5560,
-                "height": 490
-              },
-              "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0005"
-            }
-          ],
-          "otherContent": [
-            {
-              "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/annos/KPL_0005.json",
-              "@type": "sc:AnnotationList"
-            }
-          ]
         }
+        // Lặp lại cho các page tiếp theo...
       ]
     }
   ]
