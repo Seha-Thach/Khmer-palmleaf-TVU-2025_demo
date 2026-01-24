@@ -13,7 +13,7 @@ The project uses the **Universal Viewer (UV)** to display digitized documents in
 5. **Feature to open translations** in a new tab when clicking the "Translations (viewer)" link in UV.
 
 ## Author
-Seha Thach**  
+**Seha Thach**  
 Lecturer, **Tra Vinh University**, Vietnam  
 PhD Student in **Applied Linguistics**, **Institute of Linguistic Science and Technology**, **Nanjing Normal University**, China  
 Email: [thseha@tvu.edu.vn](mailto:thseha@tvu.edu.vn) / [thseha.njnu@gmail.com](mailto:thseha.njnu@gmail.com)  
