@@ -1,0 +1,51 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/annos/KPL_0003.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0003-L001",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "ថារឱអញម្ដងនេះនិងទោវឆ្ងា្យ។ អញនិងជិះឈើរច្រតច្រៀវច្រេ្យលើរឯអាកាសឆា្យ ទោវឱ្យបានតលយងយលអ្នកម្ដា្យបង្កើតឯឆា្យ កាល្នោះឯងណារ"
+      },
+      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0003#xywh=492,71,4725,91"
+    },
+    {
+      "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0003-L002",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "។ ឯអង្គសំម្ដេចព្រះមាតារស្ដេចរសរិ្យមរឆារ ទៀងទោវឱ្យតល ឱ្យយលភក្ត្រារ ព្រះវរមាតារ អ្នកមានគុនធ្ងន។ ពី្យកូនព្រាតព្រា្យ ចាក"
+      },
+      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0003#xywh=486,183,4724,57"
+    },
+    {
+      "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0003-L003",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "ចេញមកអា្យ១០ឆ្នាំមពេកពុន ពុំយលព្រះភក្ខនេ្យអ្នកមានគុន ប្រសើរលើសលុន ឥតឯអប្បម៉្មារ។ ព្រះពោធិសត្ថ ពន្លកពុទ្ធរត្នៈ"
+      },
+      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0003#xywh=498,232,4610,97"
+    },
+    {
+      "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0003-L004",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "ទ្រងព្រះឋិន្ដារ គនឥតរំពិង ជុញ្ជិងថែរថារ ក្នងព្រះទៃ្យ឵ ឯកឯងឥ្សក្ឌិ។ គិតគនព្រះវរ មាតារបវរ  ទំ្ងពិ្យសោរភិ្យ សូភាព្ទសិងធ្ងុនលើសលុនប្រថ្ថពី្យ"
+      },
+      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0003#xywh=492,359,4725,67"
+    }
+  ]
+}

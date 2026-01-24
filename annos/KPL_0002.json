@@ -1,0 +1,51 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/annos/KPL_0002.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0002-L001",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "ជាត្រើ្យ ម្ដា្យផ្ដាំមឱ្យហើ្យ ពាកពេជហោងណារ។ អ្នកកុំលើងទោវ លើរប្រសាធនូវ នោះខ្មោចផ្ងោះ ណារ  ចាំ្មប្រសាធកាច កុំណាចមុះហិម្មារ ចាំ្ម"
+      },
+      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0002#xywh=495,50,4631,87"
+    },
+    {
+      "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0002-L002",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "ពាកមាតារ កុំទោវលើ្យនៃ្យ។ សំម្ដេច ខ្សត្រិ្យ ពានូរសទិវី្យ ផ្ដាំមរាជបុតថ្លៃ្យ ស្រេចលេលារចរ នូវបរិពារក្រេ្យ តលតំបនព្រៃ្យ"
+      },
+      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0002#xywh=476,162,4644,58"
+    },
+    {
+      "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0002-L003",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "តេញសត្ថអំម្រើក្ដារ។ ឯក្រោ្យនាងទោវ ពោធិសត្ថនូវ នេះទើពស្ដេចផ្គង លើងលើប្រសាត្ថ  សំអាតឥតឆ្គង ស្ឌេចទតយលផ្ដង កៃ្យ"
+      },
+      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0002#xywh=489,217,4624,88"
+    },
+    {
+      "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0002-L004",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "កកែវរេច្នារ។ ហើ្យយលរូបផ្ងោះ ស្លើត្តស្លុកនូវនោះ តូចខ្មោចវាលង អ្នកផងសោះសារ យលឈើរច្រតថារ ប្រាំម្ពិលហាត្ថគុត។ ហើ្យកៀកកែវផង"
+      },
+      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0002#xywh=457,325,4656,56"
+    }
+  ]
+}
