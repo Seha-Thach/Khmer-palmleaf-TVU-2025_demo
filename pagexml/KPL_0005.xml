@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2026-01-22T12:20:23.986270+00:00</Created>
+        <LastChange>2026-01-22T12:20:23.986334+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="KPL_0005.tiff" imageWidth="5617" imageHeight="451">
+
+    
+    <TextRegion id="eSc_textblock_59027e1f"  >
+      <Coords points="404,6 404,419 5239,419 5239,6"/>
+      
+      
+      <TextLine id="eSc_line_807afaf1" >
+        
+        <Baseline points="455,63 2534,129 3554,146 5127,146"/>
+        <TextEquiv>
+          <Unicode>ឥ្សក្ឌិយ  បើរមកពិ្យព្រេ្យ តូចនៃ្យប្រក្រតិ្យ យលកូនភ្ងារប្រិ្យ ត្រិកអរជារត្រើ្យ។ គ្រារនែះបើកូន  ទោវទៀតសោះសូន  ពុំយលកូនើ្យ អ្នករែង</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ddde0caf" >
+        
+        <Baseline points="458,148 2101,208 3879,228 3883,228 5156,231"/>
+        <TextEquiv>
+          <Unicode>ចោវរោវ ស្រេកហៅល្វើ្យៗ  ពុំឃើញកូនលើ្យ ប្រះប្រានអង្គារ។ សំសោកសង្រែង ហារទៃ្យកន្លេង គតុកទ្រូងទ្រង ព្រះកន្សែងសល</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ee74ea1a" >
+        
+        <Baseline points="458,234 1640,276 5159,324 1709,278"/>
+        <TextEquiv>
+          <Unicode>ទៀងទុលទុកក្រេ្យ ក្រេងខ្ញុំមបា្ទបង ជីបជាតងុឆ្មារ។ ឱអង្គអញើ្យ គិតត្រានគ្រុពហើ្យ ក្រី្យក្ររថួនថារ  សិងមានមេត្រិ្យ  ប្រណិ្យ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8a0cdb38" >
+        
+        <Baseline points="455,335 2180,393 5146,416 3424,411"/>
+        <TextEquiv>
+          <Unicode>អ្នកណារ សើ្ទរធ្លា្យឱរ៉ារ ឱរះខ្សិនខ្សៃយ។ រីយឯខ្សាត្រិ្យ ពានូរសទេវី្យ កាលទោវលេងព្រៃ្យ នោះនាងផ្ដែរផ្ដាំម ថា៥ពិលថ្ងេ្យ ទើពវិលវិងនេ្យ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+
+    
+  </Page>
+</PcGts>
