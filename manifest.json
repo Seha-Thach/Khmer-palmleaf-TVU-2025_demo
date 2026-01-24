@@ -10,8 +10,7 @@
     {
       "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/text/translations.html",
       "label": "Translations (viewer)",
-      "format": "text/html",
-      "target": "_blank"  /* Mở link trong tab mới */
+      "format": "text/html"
     },
     {
       "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/text/translations.json",
