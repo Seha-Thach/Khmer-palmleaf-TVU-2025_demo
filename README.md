@@ -1,4 +1,4 @@
-# Khmer Palm-leaf Manuscripts-TVU (2025) – Digital Humanities Demo
+# Khmer Palm-leaf Manuscripts-TVU-2025 – Digital Humanities (Demo)
 
 ## Introduction
 This project is a **Digital Humanities Demo** that uses the **IIIF** (International Image Interoperability Framework) to display and explore **ancient Khmer palm-leaf manuscripts**. The aim of this project is to showcase how modern technology can be applied to preserve and share historical documents in a digital environment, featuring **text search**, **translation display**, and **text highlighting**.
