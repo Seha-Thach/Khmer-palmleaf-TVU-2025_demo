@@ -29,6 +29,13 @@
     { "label": "Attribution", "value": "Seha Thach — Tra Vinh University, 2025" }
   ],
 
+  "service": {
+    "@context": "http://iiif.io/api/search/1/context.json",
+    "@id": "https://bitter-boat-ceb5.seha-tvu.workers.dev",  // URL Worker bạn đã tạo
+    "profile": "http://iiif.io/api/search/1/search",
+    "label": "Search within this item"
+  },
+
   "sequences": [
     {
       "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/sequence/normal",
