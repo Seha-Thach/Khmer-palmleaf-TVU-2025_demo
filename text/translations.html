@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Translations – Khmer Palm-leaf Demo</title>
+  <style>
+    body{font-family:system-ui,Segoe UI,Roboto,Arial; margin:16px; max-width:1100px}
+    select{padding:6px 8px; font-size:14px}
+    .grid{display:grid; grid-template-columns:1fr; gap:12px; margin-top:12px}
+    .card{border:1px solid #ddd; padding:12px; border-radius:8px}
+    .k{font-weight:600; margin-bottom:6px}
+    pre{white-space:pre-wrap; margin:0}
+  </style>
+</head>
+<body>
+  <h2>Translations (Khmer modern / Vietnamese / English / Chinese)</h2>
+
+  <label>Leaf: </label>
+  <select id="leaf">
+    <option value="KPL_0001">KPL_0001</option>
+    <option value="KPL_0002">KPL_0002</option>
+    <option value="KPL_0003">KPL_0003</option>
+    <option value="KPL_0004">KPL_0004</option>
+    <option value="KPL_0005">KPL_0005</option>
+  </select>
+
+  <div class="grid">
+    <div class="card"><div class="k">Khmer modern</div><pre id="km"></pre></div>
+    <div class="card"><div class="k">Vietnamese</div><pre id="vi"></pre></div>
+    <div class="card"><div class="k">English</div><pre id="en"></pre></div>
+    <div class="card"><div class="k">Chinese</div><pre id="zh"></pre></div>
+  </div>
+
+<script>
+const base = "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo";
+const url  = base + "/text/translations.json";
+
+function getLeafIndex(leafId){
+  // KPL_0001 -> 0, ... KPL_0005 -> 4
+  const n = parseInt(leafId.split("_")[1], 10);
+  return isNaN(n) ? 0 : (n-1);
+}
+
+function pickEntry(data, leafId){
+  if (Array.isArray(data)) return data[getLeafIndex(leafId)] || {};
+  if (data && typeof data === "object") return data[leafId] || {};
+  return {};
+}
+
+async function render(){
+  const leafId = document.getElementById("leaf").value;
+  const data = await fetch(url).then(r => r.json());
+  const e = pickEntry(data, leafId);
+
+  // hỗ trợ nhiều tên field khác nhau
+  document.getElementById("km").textContent = e["km-modern"] || e.km_modern || e.kmModern || e.km || "";
+  document.getElementById("vi").textContent = e.vi || e.vietnamese || "";
+  document.getElementById("en").textContent = e.en || e.english || "";
+  document.getElementById("zh").textContent = e.zh || e.chinese || "";
+}
+
+document.getElementById("leaf").addEventListener("change", render);
+render();
+</script>
+</body>
+</html>
