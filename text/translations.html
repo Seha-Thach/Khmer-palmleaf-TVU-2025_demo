@@ -1,119 +1,190 @@
-<!doctype html>
-<html lang="vi">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Translations – Khmer Palm-leaf Demo</title>
-  <style>
-    /* Cải thiện bố cục cho các phần bản dịch */
-    body {
-      font-family: 'Arial', sans-serif;  /* Font mặc định */
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Khmer-Palm-Leaf-Manuscripts-2025 — demo (5 recto leaves)",
+  "description": "This IIIF-based Digital Humanities demo presents five Khmer palm-leaf manuscript images with line-level segmentation and manually curated transcriptions (HTR workflow simulated). It publishes interoperable PAGE-XML–derived text layers for scholarly viewing, citation, and text-based discovery, and links to modern Khmer normalization and Vietnamese, English, and Chinese translations.",
+  "viewingHint": "paged",
+  
+  "rendering": [
+    {
+      "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/text/translations.html",
+      "label": "Translations (viewer)",
+      "format": "text/html",
+      "target": "_blank"  /* Mở link trong tab mới */
+    },
+    {
+      "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/text/translations.json",
+      "label": "Translations (JSON)",
+      "format": "application/json"
     }
+  ],
 
-    h2 {
-      font-family: 'Impact', sans-serif; /* Tiêu đề: Impact */
+  "seeAlso": [
+    {
+      "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/text/translations.json",
+      "format": "application/json",
+      "label": "Translations (km-modern, vi, en, zh)"
     }
+  ],
 
-    .grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr; /* Để các bản dịch hiển thị 2 cột */
-      gap: 12px;
-      margin-top: 12px;
+  "metadata": [
+    { "label": "Creator", "value": "Seha Thach" },
+    { "label": "Translations (viewer)", "value": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/text/translations.html" },
+    { "label": "Date", "value": "2025-11-05" },
+    { "label": "Language", "value": "km-Khmer; pi-Khmr" },
+    { "label": "Script", "value": "Khmer" },
+    { "label": "Spatial", "value": "geonames:1566166" },
+    { "label": "Attribution", "value": "Seha Thach — Tra Vinh University, 2025" }
+  ],
+
+  "sequences": [
+    {
+      "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/sequence/normal",
+      "@type": "sc:Sequence",
+      "label": "Current Pages",
+      "canvases": [
+        {
+          "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0001",
+          "@type": "sc:Canvas",
+          "label": "Page 1",
+          "width": 5560,
+          "height": 490,
+          "images": [
+            {
+              "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/annotation/KPL_0001-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/KPL_0001.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 5560,
+                "height": 490
+              },
+              "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0001"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/annos/KPL_0001.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0002",
+          "@type": "sc:Canvas",
+          "label": "Page 2",
+          "width": 5560,
+          "height": 490,
+          "images": [
+            {
+              "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/annotation/KPL_0002-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/KPL_0002.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 5560,
+                "height": 490
+              },
+              "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0002"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/annos/KPL_0002.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0003",
+          "@type": "sc:Canvas",
+          "label": "Page 3",
+          "width": 5560,
+          "height": 490,
+          "images": [
+            {
+              "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/annotation/KPL_0003-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/KPL_0003.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 5560,
+                "height": 490
+              },
+              "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0003"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/annos/KPL_0003.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0004",
+          "@type": "sc:Canvas",
+          "label": "Page 4",
+          "width": 5560,
+          "height": 490,
+          "images": [
+            {
+              "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/annotation/KPL_0004-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/KPL_0004.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 5560,
+                "height": 490
+              },
+              "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0004"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/annos/KPL_0004.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0005",
+          "@type": "sc:Canvas",
+          "label": "Page 5",
+          "width": 5560,
+          "height": 490,
+          "images": [
+            {
+              "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/annotation/KPL_0005-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/KPL_0005.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 5560,
+                "height": 490
+              },
+              "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0005"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/annos/KPL_0005.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        }
+      ]
     }
-
-    .card {
-      border: 1px solid #ddd;
-      padding: 12px;
-      border-radius: 8px;
-      height: auto;  /* Cho phép các phần có chiều cao tự động */
-      overflow: hidden;  /* Đảm bảo văn bản không bị tràn ra ngoài */
-      max-height: 300px; /* Giới hạn chiều cao của các phần bản dịch */
-    }
-
-    .card .k {
-      font-family: 'Arial', sans-serif; /* Font cho tiêu đề bản dịch */
-      font-weight: bold;
-      margin-bottom: 6px;
-      word-wrap: break-word;  /* Ngắt dòng nếu từ quá dài */
-    }
-
-    pre {
-      white-space: pre-wrap; /* Đảm bảo văn bản không chạy dài mà tự xuống dòng */
-      margin: 0;
-      max-height: 100%;  /* Văn bản có thể cuộn bên trong */
-      overflow-y: auto;  /* Khi nội dung dài, có thanh cuộn */
-    }
-
-    /* Font riêng cho từng ngôn ngữ */
-    #km {
-      font-family: 'Khmer OS Battambang', sans-serif;  /* Font cho tiếng Khmer */
-    }
-
-    #vi {
-      font-family: 'Times New Roman', serif;  /* Font cho tiếng Việt */
-      font-size: 18px;  /* Tăng cỡ chữ cho tiếng Việt */
-    }
-
-    #en {
-      font-family: 'Times', serif;  /* Font cho tiếng Anh */
-      font-size: 18px;  /* Tăng cỡ chữ cho tiếng Anh */
-    }
-
-    #zh {
-      font-family: 'SimSum', sans-serif;  /* Font cho tiếng Trung */
-      font-size: 18px;  /* Tăng cỡ chữ cho tiếng Trung */
-    }
-  </style>
-</head>
-<body>
-  <h2>Translations (Modern Khmer / Vietnamese / English / Chinese)</h2>
-
-  <label>Leaf: </label>
-  <select id="leaf">
-    <option value="KPL_0001">KPL_0001</option>
-    <option value="KPL_0002">KPL_0002</option>
-    <option value="KPL_0003">KPL_0003</option>
-    <option value="KPL_0004">KPL_0004</option>
-    <option value="KPL_0005">KPL_0005</option>
-  </select>
-
-  <div class="grid">
-    <div class="card"><div class="k">Modern Khmer</div><pre id="km"></pre></div>
-    <div class="card"><div class="k">Vietnamese</div><pre id="vi"></pre></div>
-    <div class="card"><div class="k">English</div><pre id="en"></pre></div>
-    <div class="card"><div class="k">Chinese</div><pre id="zh"></pre></div>
-  </div>
-
-<script>
-const base = "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo";
-const url  = base + "/text/translations.json";
-
-function getLeafIndex(leafId){
-  // KPL_0001 -> 0, ... KPL_0005 -> 4
-  const n = parseInt(leafId.split("_")[1], 10);
-  return isNaN(n) ? 0 : (n-1);
+  ]
 }
-
-function pickEntry(data, leafId){
-  if (Array.isArray(data)) return data[getLeafIndex(leafId)] || {};
-  if (data && typeof data === "object") return data[leafId] || {};
-  return {};
-}
-
-async function render(){
-  const leafId = document.getElementById("leaf").value;
-  const data = await fetch(url).then(r => r.json());
-  const e = pickEntry(data, leafId);
-
-  // hỗ trợ nhiều tên field khác nhau
-  document.getElementById("km").textContent = e["km-modern"] || e.km_modern || e.kmModern || e.km || "";
-  document.getElementById("vi").textContent = e.vi || e.vietnamese || "";
-  document.getElementById("en").textContent = e.en || e.english || "";
-  document.getElementById("zh").textContent = e.zh || e.chinese || "";
-}
-
-document.getElementById("leaf").addEventListener("change", render);
-render();
-</script>
-</body>
-</html>
