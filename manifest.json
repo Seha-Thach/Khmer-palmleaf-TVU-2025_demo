@@ -5,7 +5,7 @@
   "label": "Khmer-Palm-Leaf-Manuscripts-2025 — demo (5 recto leaves)",
   "description": "This IIIF-based Digital Humanities demo presents five Khmer palm-leaf manuscript images with line-level segmentation and manually curated transcriptions (HTR workflow simulated). It publishes interoperable PAGE-XML–derived text layers for scholarly viewing, citation, and text-based discovery, and links to modern Khmer normalization and Vietnamese, English, and Chinese translations.",
   "viewingHint": "paged",
-
+  
   "rendering": [
     {
       "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/text/translations.html",
@@ -28,13 +28,6 @@
     { "label": "Spatial", "value": "geonames:1566166" },
     { "label": "Attribution", "value": "Seha Thach — Tra Vinh University, 2025" }
   ],
-
-  "service": {
-    "@context": "http://iiif.io/api/search/1/context.json",
-    "@id": "https://bitter-boat-ceb5.seha-tvu.workers.dev",  // URL Worker bạn đã tạo
-    "profile": "http://iiif.io/api/search/1/search",
-    "label": "Search within this item"
-  },
 
   "sequences": [
     {
