@@ -8,7 +8,7 @@ The project uses the **UV** to display digitized documents in **IIIF** format. *
 ## Key Features
 1. **Displaying images of the manuscripts** in **IIIF format**.
 2. **Search tool** that allows users to search for text within the manuscripts.
-3. **Translations** (Khmer, Vietnamese, English, Chinese) displayed side by side.
+3. **Translations** (ភាសាខ្មែរទំនើប, Tiếng Việt, English, 中文) displayed side by side.
 4. **Text highlighting** based on keyword searches within UV.
 5. **Feature to open translations** in a new tab when clicking the "Translations" link in UV.
 
