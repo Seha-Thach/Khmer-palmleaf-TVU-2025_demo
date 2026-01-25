@@ -21,8 +21,8 @@ Email: [thseha@tvu.edu.vn](mailto:thseha@tvu.edu.vn) / [thseha.njnu@gmail.com](m
 This project is part of research and academic work in preserving and developing sustainable solutions for **Khmer heritage documents**, applying **digital technologies** in the field of **Heritage Studies** and **Digital Humanities**.
 
 ## Technologies Used
-- IIIF (International Image Interoperability Framework): for sharing and accessing images.
-- Universal Viewer (UV): allows for viewing and interacting with the digitized data.
+- IIIF: for sharing and accessing images.
+- UV: allows for viewing and interacting with the digitized data.
 - PAGE-XML: a standard format for storing OCR and annotation data for digitized documents.
 - Cloudflare Workers: deployed to provide search functionality and text highlighting in UV.
 
