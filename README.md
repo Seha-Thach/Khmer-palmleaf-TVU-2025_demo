@@ -10,7 +10,7 @@ The project uses the **Universal Viewer (UV)** to display digitized documents in
 2. **Search tool** that allows users to search for text within the manuscripts.
 3. **Translations** (Khmer, Vietnamese, English, Chinese) displayed side by side.
 4. **Text highlighting** based on keyword searches within UV.
-5. **Feature to open translations** in a new tab when clicking the "Translations (viewer)" link in UV.
+5. **Feature to open translations** in a new tab when clicking the "Translations" link in UV.
 
 ## Author
 **Seha Thach**  
