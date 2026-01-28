@@ -23,7 +23,7 @@ This project is part of research and academic work in preserving and developing 
 ## Technologies Used
 - IIIF: for sharing and accessing images.
 - UV: allows for viewing and interacting with the digitized data.
-- PAGE-XML: a standard format for storing OCR and annotation data for digitized documents.
+- PAGE-XML: a standard format for storing ATR and annotation data for digitized documents.
 - Cloudflare Workers: deployed to provide search functionality and text highlighting in UV.
 
 ## How to Use
