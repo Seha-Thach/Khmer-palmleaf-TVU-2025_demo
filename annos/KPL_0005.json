@@ -6,46 +6,50 @@
     {
       "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0005-L001",
       "@type": "oa:Annotation",
-      "motivation": "sc:painting",
+      "motivation": "sc:supplementing",
       "resource": {
         "@type": "cnt:ContentAsText",
         "format": "text/plain",
-        "chars": "ឥ្សក្ឌិយ  បើរមកពិ្យព្រេ្យ តូចនៃ្យប្រក្រតិ្យ យលកូនភ្ងារប្រិ្យ ត្រិកអរជារត្រើ្យ។ គ្រារនែះបើកូន  ទោវទៀតសោះសូន  ពុំយលកូនើ្យ អ្នករែង"
+        "chars": "ឥ្សក្ឌិយ  បើរមកពិ្យព្រេ្យ តូចនៃ្យប្រក្រតិ្យ យលកូនភ្ងារប្រិ្យ ត្រិកអរជារត្រើ្យ។ គ្រារនែះបើកូន  ទោវទៀតសោះសូន  ពុំយលកូនើ្យ អ្នករែង",
+        "language": "km-Khmr"
       },
-      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0005#xywh=450,28,4682,133"
+      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0005#xywh=420,18,4742,173"
     },
     {
       "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0005-L002",
       "@type": "oa:Annotation",
-      "motivation": "sc:painting",
+      "motivation": "sc:supplementing",
       "resource": {
         "@type": "cnt:ContentAsText",
         "format": "text/plain",
-        "chars": "ចោវរោវ ស្រេកហៅល្វើ្យៗ  ពុំឃើញកូនលើ្យ ប្រះប្រានអង្គារ។ សំសោកសង្រែង ហារទៃ្យកន្លេង គតុកទ្រូងទ្រង ព្រះកន្សែងសល"
+        "chars": "ចោវរោវ ស្រេកហៅល្វើ្យៗ  ពុំឃើញកូនលើ្យ ប្រះប្រានអង្គារ។ សំសោកសង្រែង ហារទៃ្យកន្លេង គតុកទ្រូងទ្រង ព្រះកន្សែងសល",
+        "language": "km-Khmr"
       },
-      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0005#xywh=453,113,4708,133"
+      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0005#xywh=423,103,4768,173"
     },
     {
       "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0005-L003",
       "@type": "oa:Annotation",
-      "motivation": "sc:painting",
+      "motivation": "sc:supplementing",
       "resource": {
         "@type": "cnt:ContentAsText",
         "format": "text/plain",
-        "chars": "ទៀងទុលទុកក្រេ្យ ក្រេងខ្ញុំមបា្ទបង ជីបជាតងុឆ្មារ។ ឱអង្គអញើ្យ គិតត្រានគ្រុពហើ្យ ក្រី្យក្ររថួនថារ  សិងមានមេត្រិ្យ  ប្រណិ្យ"
+        "chars": "ទៀងទុលទុកក្រេ្យ ក្រេងខ្ញុំមបា្ទបង ជីបជាតងុឆ្មារ។ ឱអង្គអញើ្យ គិតត្រានគ្រុពហើ្យ ក្រី្យក្ររថួនថារ  សិងមានមេត្រិ្យ  ប្រណិ្យ",
+        "language": "km-Khmr"
       },
-      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0005#xywh=453,199,4711,140"
+      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0005#xywh=423,189,4771,180"
     },
     {
       "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0005-L004",
       "@type": "oa:Annotation",
-      "motivation": "sc:painting",
+      "motivation": "sc:supplementing",
       "resource": {
         "@type": "cnt:ContentAsText",
         "format": "text/plain",
-        "chars": "អ្នកណារ សើ្ទរធ្លា្យឱរ៉ារ ឱរះខ្សិនខ្សៃយ។ រីយឯខ្សាត្រិ្យ ពានូរសទេវី្យ កាលទោវលេងព្រៃ្យ នោះនាងផ្ដែរផ្ដាំម ថា៥ពិលថ្ងេ្យ ទើពវិលវិងនេ្យ"
+        "chars": "អ្នកណារ សើ្ទរធ្លា្យឱរ៉ារ ឱរះខ្សិនខ្សៃយ។ រីយឯខ្សាត្រិ្យ ពានូរសទេវី្យ កាលទោវលេងព្រៃ្យ នោះនាងផ្ដែរផ្ដាំម ថា៥ពិលថ្ងេ្យ ទើពវិលវិងនេ្យ",
+        "language": "km-Khmr"
       },
-      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0005#xywh=450,300,4701,131"
+      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0005#xywh=420,290,4761,161"
     }
   ]
 }

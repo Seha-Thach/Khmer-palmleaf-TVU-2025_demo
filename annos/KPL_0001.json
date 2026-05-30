@@ -6,44 +6,48 @@
     {
       "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0001-L001",
       "@type": "oa:Annotation",
-      "motivation": "sc:painting",
+      "motivation": "sc:supplementing",
       "resource": {
         "@type": "cnt:ContentAsText",
         "format": "text/plain",
-        "chars": "ទើពគាតតិងថារ មូសារឯងអាច។ រិ្យកាល្នោះណារ នាង ផ្ដាំម បុត្រារ ទោវព្រិក មក ល្ងាច មិន មែនច្នោះនៃ្យ។ ៧ ថ្ងៃ្យ អាច វិលវិង មក ល្ងាច ទើព តល ហោ"
+        "chars": "ទើពគាតតិងថារ មូសារឯងអាច។ រិ្យកាល្នោះណារ នាង ផ្ដាំម បុត្រារ ទោវព្រិក មក ល្ងាច មិន មែនច្នោះនៃ្យ។ ៧ ថ្ងៃ្យ អាច វិលវិង មក ល្ងាច ទើព តល ហោ",
+        "language": "km-Khmr"
       },
-      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0001#xywh=461,74,4679,91"
+      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0001#xywh=431,64,4739,131"
     },
     {
       "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0001-L002",
       "@type": "oa:Annotation",
-      "motivation": "sc:painting",
+      "motivation": "sc:supplementing",
       "resource": {
         "@type": "cnt:ContentAsText",
         "format": "text/plain",
-        "chars": "ង ណារ ។ កាល នាង តល នោះ ព្រះ ហាទៃ្យ ស្មោះ ត្រិក ត្រង បុត្រារ ក្រសោប បុតរត្ន ជួញ ជីត ឱរារ ថើប អ្ស អង្គារ សព្វសារពាង នៃ្យ"
+        "chars": "ង ណារ ។ កាល នាង តល នោះ ព្រះ ហាទៃ្យ ស្មោះ ត្រិក ត្រង បុត្រារ ក្រសោប បុតរត្ន ជួញ ជីត ឱរារ ថើប អ្ស អង្គារ សព្វសារពាង នៃ្យ",
+        "language": "km-Khmr"
       },
       "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0001#xywh=467,168,4649,61"
     },
     {
       "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0001-L003",
       "@type": "oa:Annotation",
-      "motivation": "sc:painting",
+      "motivation": "sc:supplementing",
       "resource": {
         "@type": "cnt:ContentAsText",
         "format": "text/plain",
-        "chars": "។ ថា ស្ងួន ត្រាន ត្រើ្យ សំលេញម្ដាយើ្យ ម្ដា្យ ទោវ លុះ ថ្ងេ្យ គុំរព ៧ ទើព វិល មក នេ្យ យល មុក មាស ថ្លេយ ម្ដា្យ អរណាះ ហោង ។ កុំ"
+        "chars": "។ ថា ស្ងួន ត្រាន ត្រើ្យ សំលេញម្ដាយើ្យ ម្ដា្យ ទោវ លុះ ថ្ងេ្យ គុំរព ៧ ទើព វិល មក នេ្យ យល មុក មាស ថ្លេយ ម្ដា្យ អរណាះ ហោង ។ កុំ",
+        "language": "km-Khmr"
       },
       "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0001#xywh=493,261,4632,45"
     },
     {
       "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0001-L004",
       "@type": "oa:Annotation",
-      "motivation": "sc:painting",
+      "motivation": "sc:supplementing",
       "resource": {
         "@type": "cnt:ContentAsText",
         "format": "text/plain",
-        "chars": "បិត មុត តេ្យ អ្នក ឯណារថ្លេ្យ នោះ មិញ ស្ងួន ភ្ងារ ម្ដា្យ មើល បាន្តិច តុះ សេច សះ ជារ រី្យ ម្ដេច ស្ងួន ភ្ងារ ព្រះ លិង ម្ដាយើ្យ ។ រី្យ រាជកូរម៉្មារ លះ"
+        "chars": "បិត មុត តេ្យ អ្នក ឯណារថ្លេ្យ នោះ មិញ ស្ងួន ភ្ងារ ម្ដា្យ មើល បាន្តិច តុះ សេច សះ ជារ រី្យ ម្ដេច ស្ងួន ភ្ងារ ព្រះ លិង ម្ដាយើ្យ ។ រី្យ រាជកូរម៉្មារ លះ",
+        "language": "km-Khmr"
       },
       "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0001#xywh=450,340,4692,49"
     }

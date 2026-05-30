@@ -1,0 +1,26 @@
+[
+  {
+    "line_id": "eSc_line_807afaf1",
+    "target": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0005#xywh=420,18,4742,173",
+    "bbox_method": "baseline_fallback",
+    "text_length": 127
+  },
+  {
+    "line_id": "eSc_line_ddde0caf",
+    "target": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0005#xywh=423,103,4768,173",
+    "bbox_method": "baseline_fallback",
+    "text_length": 106
+  },
+  {
+    "line_id": "eSc_line_ee74ea1a",
+    "target": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0005#xywh=423,189,4771,180",
+    "bbox_method": "baseline_fallback",
+    "text_length": 119
+  },
+  {
+    "line_id": "eSc_line_8a0cdb38",
+    "target": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0005#xywh=420,290,4761,161",
+    "bbox_method": "baseline_fallback",
+    "text_length": 128
+  }
+]

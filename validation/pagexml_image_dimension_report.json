@@ -1,0 +1,87 @@
+[
+  {
+    "id": "KPL_0001",
+    "expected": [
+      5560,
+      490
+    ],
+    "jpg": [
+      5560,
+      490
+    ],
+    "pagexml": [
+      5560,
+      490
+    ],
+    "jpg_matches": true,
+    "pagexml_matches": true
+  },
+  {
+    "id": "KPL_0002",
+    "expected": [
+      5585,
+      487
+    ],
+    "jpg": [
+      5585,
+      487
+    ],
+    "pagexml": [
+      5585,
+      487
+    ],
+    "jpg_matches": true,
+    "pagexml_matches": true
+  },
+  {
+    "id": "KPL_0003",
+    "expected": [
+      5621,
+      485
+    ],
+    "jpg": [
+      5621,
+      485
+    ],
+    "pagexml": [
+      5621,
+      485
+    ],
+    "jpg_matches": true,
+    "pagexml_matches": true
+  },
+  {
+    "id": "KPL_0004",
+    "expected": [
+      5633,
+      476
+    ],
+    "jpg": [
+      5633,
+      476
+    ],
+    "pagexml": [
+      5633,
+      476
+    ],
+    "jpg_matches": true,
+    "pagexml_matches": true
+  },
+  {
+    "id": "KPL_0005",
+    "expected": [
+      5617,
+      451
+    ],
+    "jpg": [
+      5617,
+      451
+    ],
+    "pagexml": [
+      5617,
+      451
+    ],
+    "jpg_matches": true,
+    "pagexml_matches": true
+  }
+]

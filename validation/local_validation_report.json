@@ -1,0 +1,32 @@
+[
+  {
+    "id": "KPL_0001",
+    "width": 5560,
+    "height": 490,
+    "annotations": 4
+  },
+  {
+    "id": "KPL_0002",
+    "width": 5585,
+    "height": 487,
+    "annotations": 4
+  },
+  {
+    "id": "KPL_0003",
+    "width": 5621,
+    "height": 485,
+    "annotations": 4
+  },
+  {
+    "id": "KPL_0004",
+    "width": 5633,
+    "height": 476,
+    "annotations": 4
+  },
+  {
+    "id": "KPL_0005",
+    "width": 5617,
+    "height": 451,
+    "annotations": 4
+  }
+]
