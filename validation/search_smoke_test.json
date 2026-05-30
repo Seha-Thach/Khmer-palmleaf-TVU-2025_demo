@@ -1,0 +1,101 @@
+{
+  "@context": "http://iiif.io/api/search/1/context.json",
+  "@id": "https://bitter-boat-ceb5.seha-tvu.workers.dev/search?q=%E1%9E%98%E1%9F%92%E1%9E%8A%E1%9E%B6%E1%9F%92%E1%9E%99",
+  "@type": "sc:AnnotationList",
+  "within": {
+    "@type": "sc:Layer",
+    "total": 4
+  },
+  "resources": [
+    {
+      "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0001-L003",
+      "@type": "oa:Annotation",
+      "motivation": "sc:supplementing",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "។ ថា ស្ងួន ត្រាន ត្រើ្យ សំលេញម្ដាយើ្យ ម្ដា្យ ទោវ លុះ ថ្ងេ្យ គុំរព ៧ ទើព វិល មក នេ្យ យល មុក មាស ថ្លេយ ម្ដា្យ អរណាះ ហោង ។ កុំ",
+        "language": "km-Khmr"
+      },
+      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0001#xywh=493,261,4632,45"
+    },
+    {
+      "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0001-L004",
+      "@type": "oa:Annotation",
+      "motivation": "sc:supplementing",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "បិត មុត តេ្យ អ្នក ឯណារថ្លេ្យ នោះ មិញ ស្ងួន ភ្ងារ ម្ដា្យ មើល បាន្តិច តុះ សេច សះ ជារ រី្យ ម្ដេច ស្ងួន ភ្ងារ ព្រះ លិង ម្ដាយើ្យ ។ រី្យ រាជកូរម៉្មារ លះ",
+        "language": "km-Khmr"
+      },
+      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0001#xywh=450,340,4692,49"
+    },
+    {
+      "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0002-L001",
+      "@type": "oa:Annotation",
+      "motivation": "sc:supplementing",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "ជាត្រើ្យ ម្ដា្យផ្ដាំមឱ្យហើ្យ ពាកពេជហោងណារ។ អ្នកកុំលើងទោវ លើរប្រសាធនូវ នោះខ្មោចផ្ងោះ ណារ  ចាំ្មប្រសាធកាច កុំណាចមុះហិម្មារ ចាំ្ម",
+        "language": "km-Khmr"
+      },
+      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0002#xywh=495,50,4631,87"
+    },
+    {
+      "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0003-L001",
+      "@type": "oa:Annotation",
+      "motivation": "sc:supplementing",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "ថារឱអញម្ដងនេះនិងទោវឆ្ងា្យ។ អញនិងជិះឈើរច្រតច្រៀវច្រេ្យលើរឯអាកាសឆា្យ ទោវឱ្យបានតលយងយលអ្នកម្ដា្យបង្កើតឯឆា្យ កាល្នោះឯងណារ",
+        "language": "km-Khmr"
+      },
+      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0003#xywh=492,71,4725,91"
+    }
+  ],
+  "hits": [
+    {
+      "@type": "search:Hit",
+      "annotations": [
+        "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0001-L003"
+      ],
+      "match": "ម្ដា្យ",
+      "before": "",
+      "after": "",
+      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0001#xywh=493,261,4632,45"
+    },
+    {
+      "@type": "search:Hit",
+      "annotations": [
+        "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0001-L004"
+      ],
+      "match": "ម្ដា្យ",
+      "before": "",
+      "after": "",
+      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0001#xywh=450,340,4692,49"
+    },
+    {
+      "@type": "search:Hit",
+      "annotations": [
+        "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0002-L001"
+      ],
+      "match": "ម្ដា្យ",
+      "before": "",
+      "after": "",
+      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0002#xywh=495,50,4631,87"
+    },
+    {
+      "@type": "search:Hit",
+      "annotations": [
+        "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0003-L001"
+      ],
+      "match": "ម្ដា្យ",
+      "before": "",
+      "after": "",
+      "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0003#xywh=492,71,4725,91"
+    }
+  ]
+}
