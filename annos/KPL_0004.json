@@ -6,44 +6,48 @@
     {
       "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0004-L001",
       "@type": "oa:Annotation",
-      "motivation": "sc:painting",
+      "motivation": "sc:supplementing",
       "resource": {
         "@type": "cnt:ContentAsText",
         "format": "text/plain",
-        "chars": "កុំសទ្ធទូគុតពេកក្ដិត ហើ្យអាញអាណើត ចិញ្ចិមកូនបាន។ គួអញទោវសង គុនព្រះកន្លោង ជាតជារប្រធាន ឱ្យរំលងពី្យ ឆារក្ដីអ្នកមាន ទុកទូគុ"
+        "chars": "កុំសទ្ធទូគុតពេកក្ដិត ហើ្យអាញអាណើត ចិញ្ចិមកូនបាន។ គួអញទោវសង គុនព្រះកន្លោង ជាតជារប្រធាន ឱ្យរំលងពី្យ ឆារក្ដីអ្នកមាន ទុកទូគុ",
+        "language": "km-Khmr"
       },
       "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0004#xywh=493,65,4658,66"
     },
     {
       "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0004-L002",
       "@type": "oa:Annotation",
-      "motivation": "sc:painting",
+      "motivation": "sc:supplementing",
       "resource": {
         "@type": "cnt:ContentAsText",
         "format": "text/plain",
-        "chars": "តបាន សះក្ឌីទុកសោក។ ព្រះអង្គគិតគន ព្រះមាតារធ្ងុន ប្រសើរកន្លោង ទ្រងព្រះកន្សែង ថ្លារថ្លែងទុំនង ទុំនួញទួញថាន្ង តោ្យបតគាថ្ថា"
+        "chars": "តបាន សះក្ឌីទុកសោក។ ព្រះអង្គគិតគន ព្រះមាតារធ្ងុន ប្រសើរកន្លោង ទ្រងព្រះកន្សែង ថ្លារថ្លែងទុំនង ទុំនួញទួញថាន្ង តោ្យបតគាថ្ថា",
+        "language": "km-Khmr"
       },
       "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0004#xywh=480,176,4696,29"
     },
     {
       "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0004-L003",
       "@type": "oa:Annotation",
-      "motivation": "sc:painting",
+      "motivation": "sc:supplementing",
       "resource": {
         "@type": "cnt:ContentAsText",
         "format": "text/plain",
-        "chars": "។សរោទន្តិ អសិនិមិ ទុក្ខោអរហំ អធាយិបកសំ ទេវិទរំ ចទុក្កតា។ មហាបរសុរត្ថ ទុលទុកទៀងជាត្ថ ទួញទោវមាតា ហិ"
+        "chars": "។សរោទន្តិ អសិនិមិ ទុក្ខោអរហំ អធាយិបកសំ ទេវិទរំ ចទុក្កតា។ មហាបរសុរត្ថ ទុលទុកទៀងជាត្ថ ទួញទោវមាតា ហិ",
+        "language": "km-Khmr"
       },
       "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0004#xywh=493,254,4664,41"
     },
     {
       "@id": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/anno/KPL_0004-L004",
       "@type": "oa:Annotation",
-      "motivation": "sc:painting",
+      "motivation": "sc:supplementing",
       "resource": {
         "@type": "cnt:ContentAsText",
         "format": "text/plain",
-        "chars": "ម្លេះសំមព្រះមេ្យ ឥតល្ហែសោក្ការ   ជោរជុលនេត្រារ  ម្នាកឯងក្ររក្រេ្យ។ កាលតេ្យទុំម្លាក កូនកុំព្រារធ្លាក ក្នងទិកនោះនេ្យ អ្នកឥតស្មានស្មោះ"
+        "chars": "ម្លេះសំមព្រះមេ្យ ឥតល្ហែសោក្ការ   ជោរជុលនេត្រារ  ម្នាកឯងក្ររក្រេ្យ។ កាលតេ្យទុំម្លាក កូនកុំព្រារធ្លាក ក្នងទិកនោះនេ្យ អ្នកឥតស្មានស្មោះ",
+        "language": "km-Khmr"
       },
       "on": "https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0004#xywh=480,357,4684,34"
     }

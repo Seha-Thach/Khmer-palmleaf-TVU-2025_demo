@@ -1,33 +1,19 @@
-# Khmer Palm-leaf Manuscripts_TVU_2025 – Digital Humanities (Demo)
+# Khmer Palm-Leaf Manuscripts in Southern Vietnam — IIIF Proof of Concept
 
-## Introduction
-This project is a **Digital Humanities Demo** that uses the **IIIF** to display and explore **ancient Khmer palm-leaf manuscripts**. The aim of this project is to showcase how modern technology can be applied to preserve and share historical documents in a digital environment, featuring **text search**, **translation display**, and **text highlighting**.
+## Scope
+Five recto leaves: LB01_001r–LB01_005r / KPL_0001–KPL_0005.
 
-The project uses the **UV** to display digitized documents in **IIIF** format. **Annotations** are created from **PAGE-XML** and displayed as **text layers** via **IIIF Annotations**.
+## Article framing
+Methodological proof of concept; not an HTR model paper.
 
-## Key Features
-1. **Displaying images of the manuscripts** in **IIIF format**.
-2. **Search tool** that allows users to search for text within the manuscripts.
-3. **Translations** (ភាសាខ្មែរទំនើប, Tiếng Việt, English, 中文) displayed side by side.
-4. **Text highlighting** based on keyword searches within UV.
-5. **Feature to open translations** in a new tab when clicking the "Translations" link in UV.
+## Data layers
+- Internet Archive: source TIFF image access
+- PAGE-XML: line-level layout and text layer
+- IIIF Annotation Lists: PAGE-derived #xywh targets
+- IIIF Presentation API 2.x manifest
+- IIIF Content Search API 1.0 through Cloudflare Workers
+- Universal Viewer
+- Zenodo DOI
 
-## Author
-**Seha Thach**  
-Lecturer, **Tra Vinh University**, Vietnam  
-PhD Student in **Applied Linguistics**, **Institute of Linguistic Science and Technology**, **Nanjing Normal University**, China  
-Email: [thseha@tvu.edu.vn](mailto:thseha@tvu.edu.vn) / [thseha.njnu@gmail.com](mailto:thseha.njnu@gmail.com)  
-
-This project is part of research and academic work in preserving and developing sustainable solutions for **Khmer heritage documents**, applying **digital technologies** in the field of **Heritage Studies** and **Digital Humanities**.
-
-## Technologies Used
-- IIIF: for sharing and accessing images.
-- UV: allows for viewing and interacting with the digitized data.
-- PAGE-XML: a standard format for storing ATR and annotation data for digitized documents.
-- Cloudflare Workers: deployed to provide search functionality and text highlighting in UV.
-
-## How to Use
-1. **Clone this repository** to your local machine:
-   ```bash
-   git clone https://github.com/Seha-Thach/Khmer-palmleaf-TVU-2025_demo.git
-
+## License
+CC BY 4.0.

@@ -1,0 +1,6 @@
+kpl_id,source_id,width,height,tiff_file,jpg_file,pagexml_file,annotation_file,canvas_uri
+KPL_0001,LB01_001r,5560,490,images/LB01_001r.tiff,KPL_0001.jpg,pagexml/KPL_0001.xml,annos/KPL_0001.json,https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0001
+KPL_0002,LB01_002r,5585,487,images/LB01_002r.tiff,KPL_0002.jpg,pagexml/KPL_0002.xml,annos/KPL_0002.json,https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0002
+KPL_0003,LB01_003r,5621,485,images/LB01_003r.tiff,KPL_0003.jpg,pagexml/KPL_0003.xml,annos/KPL_0003.json,https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0003
+KPL_0004,LB01_004r,5633,476,images/LB01_004r.tiff,KPL_0004.jpg,pagexml/KPL_0004.xml,annos/KPL_0004.json,https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0004
+KPL_0005,LB01_005r,5617,451,images/LB01_005r.tiff,KPL_0005.jpg,pagexml/KPL_0005.xml,annos/KPL_0005.json,https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/canvas/KPL_0005
