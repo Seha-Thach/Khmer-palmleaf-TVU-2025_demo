@@ -1,0 +1,7 @@
+Validation Results:
+
+URL Tested: https://seha-thach.github.io/Khmer-palmleaf-TVU-2025_demo/manifest.json
+
+Validated successfully
+Warnings:
+	◦	WARNING: Setting non-standard field 'rendering' on resource of type 'sc:Manifest'
